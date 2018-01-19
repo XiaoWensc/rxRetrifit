@@ -49,7 +49,7 @@ public class HttpManager {
 
     /**
      * 处理http请求
-     *
+     *1
      * @param basePar 封装的请求数据
      */
     public void doHttpDeal(final BaseApi basePar) {
